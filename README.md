@@ -1,8 +1,12 @@
 # Sphinx Docs Example
 
+### maven
 
- * mave 
- * sbt (not yet configured)
+[tomdz/sphinx-maven](../../../../tomdz/sphinx-maven) plugin used 
+
+### sbt
+
+not yet configured
 
 
 
