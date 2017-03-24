@@ -1,3 +1,8 @@
-#notepad-java8
+#Sphinx Docs Example
 
-This file is in [Markdown](http://daringfireball.net/projects/markdown/) format.
+
+ * mave 
+ * sbt (not yet configured)
+
+
+

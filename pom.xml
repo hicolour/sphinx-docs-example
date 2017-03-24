@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.prochera</groupId>
-    <artifactId>maven-sphinx-example</artifactId>
+    <artifactId>sphinx-docs-example</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -76,14 +76,14 @@
                 <artifactId>maven-site-plugin</artifactId>
                 <version>3.0</version>
             </plugin>
-            <plugin>
-                <groupId>org.tomdz.maven</groupId>
-                <artifactId>sphinx-maven-plugin</artifactId>
-                <version>1.0.2</version>
-                <configuration>
-                    <sourceDirectory>docs</sourceDirectory>
-                </configuration>
-            </plugin>
+            <!--<plugin>-->
+                <!--<groupId>org.tomdz.maven</groupId>-->
+                <!--<artifactId>sphinx-maven-plugin</artifactId>-->
+                <!--<version>1.0.2</version>-->
+                <!--<configuration>-->
+                    <!--<sourceDirectory>docs</sourceDirectory>-->
+                <!--</configuration>-->
+            <!--</plugin>-->
         </plugins>
     </build>
 

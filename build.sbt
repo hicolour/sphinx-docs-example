@@ -1,6 +1,6 @@
 organization  := "com.prochera"
 
-name := "notepad-java8"
+name := ">sphinx-docs-example<"
 
 version := "0.1-SNAPSHOT"
 
